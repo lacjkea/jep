@@ -30,6 +30,16 @@ body {
     background-size: cover;
 }
 
+.bg-img-wrapper_4 {
+    background-image: url(mountain_3.png);
+    background-position: 100% 80%;
+    background-repeat: no-repeat;
+    background-clip: padding-box;
+    background-size: cover;
+}
+
+
+
 .container {
     /*        background-color: rgba(0, 0, 0, 0.53);*/
 
@@ -38,6 +48,10 @@ body {
 .logo {
     max-width: 7%;
     position: fixed;
+}
+
+.logo_bt {
+    max-width: 15%;
 }
 
 
@@ -70,6 +84,12 @@ p {
 .overflow_feed {
     overflow: scroll;
 }
+
+footer {
+    background-color: #A78612;
+}
+
+
 
 
 .copy {
