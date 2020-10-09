@@ -22,6 +22,14 @@ body {
     background-size: cover;
 }
 
+.bg-img-wrapper_3 {
+    background-image: url(2.bg.png);
+    background-position: 100% 25%;
+    background-repeat: no-repeat;
+    background-clip: padding-box;
+    background-size: cover;
+}
+
 .container {
     /*        background-color: rgba(0, 0, 0, 0.53);*/
 
@@ -34,6 +42,8 @@ body {
 
 
 iframe {}
+
+
 
 .highlight {
     background-color: #A78612;
@@ -51,6 +61,14 @@ p {
     font-family: 'Helvetica', sans-serif;
     font-weight: 100;
     font-size: 1.3rem;
+}
+
+.feed {
+    width: 25%;
+}
+
+.overflow_feed {
+    overflow: scroll;
 }
 
 
