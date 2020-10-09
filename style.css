@@ -73,7 +73,7 @@ p {
 
 
 .copy {
-    font-size: calc(0.6rem + 1vw);
+    font-size: calc(0.7rem + 0.6vw);
 }
 
 @media (min-width: 1200px) {
